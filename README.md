@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @haris008
+- 👋 Hi, I’m @haris008. Working in mobile app development iOS & Android since 2012
 - 👀 I’m interested in swift, kotlin, AR and Python.
 - 🌱 I’m currently learning AR & Python.
 - 📫 You can reach me via Skype (harris.008) or LinkedIn (https://www.linkedin.com/in/muhammad-haris-bin-abid/)
